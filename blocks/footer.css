@@ -1,0 +1,21 @@
+.footer {
+  margin: auto;
+  padding-top: 5%;
+  padding-bottom: 2.5%;
+}
+.footer__copyright {
+  font-size: 14px;
+  margin: 0;
+}
+@media screen and (max-width: 768px) {
+  .footer {
+    padding-top: 3.1%;
+    padding-bottom: 4.2%;
+  }
+}
+@media screen and (max-width: 320px) {
+  .footer {
+    padding-top: 6.3%;
+    padding-bottom: 10.5%;
+  }
+}
