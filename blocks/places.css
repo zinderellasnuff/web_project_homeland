@@ -38,7 +38,6 @@
   font-weight: 400;
   font-size: 12px;
   line-height: 14.52px;
-  letter-spacing: 12%;
   color: #aaaaaa;
   margin: 15.96px 0px 8px;
 }
@@ -53,8 +52,9 @@
 
 .places__image {
   width: 100%;
-  padding-top: 5%;
+  margin-top: 5%;
   grid-area: image;
+  box-shadow: 10px 10px 25px rgba(0, 0, 0, 0.5);
 }
 
 .places__paragraphs {
