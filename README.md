@@ -16,9 +16,7 @@ Este proyecto tiene como objetivo mejorar mis habilidades en la creación de pá
 
 Puedes ver el proyecto en acción visitando este enlace: [web_project_homeland](https://zinderellasnuff.github.io/web_project_homeland/)
 
-![Vista previa del proyecto](./images/image.png) <
-
----
+![Vista previa del proyecto](./images/image.png)
 
 ---
 
